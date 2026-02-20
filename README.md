@@ -1,4 +1,12 @@
-## Hi there 👋
+# Welcome!
+
+I'm a CS student trying to become better at coding by building things for fun while learning new things.
+
+Currently this profile will mostly consist of personal passion coding projects.
+
+## What I've worked on so far
+
+- CLI task manager
 
 <!--
 **apathydevil/apathydevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
