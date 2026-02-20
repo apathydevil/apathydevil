@@ -1,12 +1,17 @@
-# Welcome!
+CS student from Germany building things for fun while trying to get better at coding.
+Most of what you'll find here are personal passion projects for now.
 
-I'm a CS student trying to become better at coding by building things for fun while learning new things.
+## what I've built
+- CLI Task Manager — command line to-do app with persistent JSON storage
 
-Currently this profile will mostly consist of personal passion coding projects.
+## what I'm currently learning
+- Python, Java
+- Git and project structure
 
-## What I've worked on so far
+## stack
+- Python, Java
+- VS Code, Git
 
-- CLI task manager
 
 <!--
 **apathydevil/apathydevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
