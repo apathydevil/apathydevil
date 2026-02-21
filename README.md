@@ -4,6 +4,7 @@ Most of what you'll find here are personal passion projects for now.
 ## what I've built
 - CLI Task Manager — command line to-do app with persistent JSON storage
 - Number guessing game - command line guessing game that stores highscores in a local csv file
+- Markdown to HTML converter - convert all .md files in a folder to .html and output them in a seperate folder 
 
 ## what I'm currently learning
 - Python, Java
