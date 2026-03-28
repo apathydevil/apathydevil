@@ -10,7 +10,7 @@ Switching to an AI-oriented CS program next semester.
 - **[Markdown Static Site Generator](https://github.com/apathydevil/markdown-static-generator)** — converts .md files to .html and outputs them to a folder
 - **[WeatherCLI](https://github.com/apathydevil/WeatherCLI)** — fetches and displays weather data from a public API
 - **[Simple Converter](https://github.com/apathydevil/simpleconverter)** — CLI unit converter for length, weight, and temperature
-... some other stuff.
+- ... some other stuff.
 
 ## what I'm currently learning
 
