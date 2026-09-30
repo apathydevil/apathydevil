@@ -21,7 +21,7 @@ Ubuntu Server machine running self-hosted services with Docker Compose,
 administered over SSH (key-based) and connected to my other devices through Tailscale.
 
 - **Services:** Gitea (primary Git hosting for my projects), Vaultwarden, Filebrowser Quantum, Stirling PDF, Excalidraw, IT-Tools
-- **Infrastructure and monitoring:** Pi-hole (network-wide DNS filtering), Uptime Kuma, Scrutiny (disk health), Glances, Dozzle (container logs), Speedtest Tracker, Woodpecker CI
+- **Infrastructure and monitoring:** Pi-hole (network-wide DNS filtering), Uptime Kuma, Scrutiny (disk health), Glances, Dozzle (container logs), Speedtest Tracker
 - **speedtest-dashboard:** own FastAPI application, containerized, reads Speedtest Tracker's API to show results without logging in
 - Obsidian notes backed up via Git to Gitea over Tailscale
 
