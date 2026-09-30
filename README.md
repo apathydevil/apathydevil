@@ -1,24 +1,32 @@
 # apathydevil
 
-CS student from Germany building things for fun while trying to get better at coding.
-Switching to an AI-oriented CS program next semester.
+B.Sc. Artificial Intelligence and Cognitive Informatics, Germany.
+Interested in machine learning and computer science in general.
+Currently focused on backend development with Python.
 
-## what I've built
+## Featured projects
 
-- **[CLI Task Manager](https://github.com/apathydevil/cli-task-manager)** — command line to-do app with persistent JSON storage
-- **[Number Guessing Game](https://github.com/apathydevil/number-guessing-game-withhighscore)** — CLI game with local highscore tracking via CSV
-- **[Markdown Static Site Generator](https://github.com/apathydevil/markdown-static-site-generator)** — converts .md files to .html and outputs them to a folder
-- **[WeatherCLI](https://github.com/apathydevil/WeatherCLI)** — fetches and displays weather data from a public API
-- **[Simple Converter](https://github.com/apathydevil/simpleconverter)** — CLI unit converter for length, weight, and temperature
-- ... some other stuff.
+- **[bookmarks-api](https://github.com/apathydevil/bookmarks-api)** — REST API with FastAPI and SQLite (hand-written, parameterized SQL), full CRUD including partial updates, covered by a pytest suite
+- **[task-manager-api](https://github.com/apathydevil/task-manager-api)** — CRUD API with FastAPI and SQLAlchemy 2.0 ORM, dependency-injected database sessions, tested with pytest
 
-## what I'm currently learning
+## Earlier projects
 
-- Python, backend development
-- Self-hosting and homelab infrastructure
+CLI tools written while learning Python: a [task manager](https://github.com/apathydevil/cli-task-manager) with JSON storage,
+a [weather client](https://github.com/apathydevil/WeatherCLI) for a public API,
+a [Markdown static site generator](https://github.com/apathydevil/markdown-static-site-generator), and others.
 
-## stack
+## Tech
 
-- Python, Java
-- VS Code, Git
-- Docker, Gitea, Linux
+- **Languages:** Python, Java, SQL
+- **Backend:** FastAPI, Pydantic, SQLAlchemy, SQLite
+- **Testing:** pytest
+- **Tools:** Git, Docker / Docker Compose, Linux, uv
+- **Self-hosting:** Gitea, reverse proxies, Tailscale
+
+## Currently learning
+
+- Data structures and algorithms
+- CI with GitHub Actions
+- Testing in depth (fixtures, mocking)
+
+Open to remote working student (Werkstudent) positions in Python / backend development.
