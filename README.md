@@ -15,13 +15,23 @@ CLI tools written while learning Python: a [task manager](https://github.com/apa
 a [weather client](https://github.com/apathydevil/WeatherCLI) for a public API,
 a [Markdown static site generator](https://github.com/apathydevil/markdown-static-site-generator), and others.
 
+## Homelab
+
+Ubuntu Server machine running self-hosted services with Docker Compose,
+administered over SSH (key-based) and connected to my other devices through Tailscale.
+
+- **Services:** Gitea (primary Git hosting for my projects), Vaultwarden, Filebrowser Quantum, Stirling PDF, Excalidraw, IT-Tools
+- **Infrastructure and monitoring:** Pi-hole (network-wide DNS filtering), Uptime Kuma, Scrutiny (disk health), Glances, Dozzle (container logs), Speedtest Tracker, Woodpecker CI
+- **speedtest-dashboard:** own FastAPI application, containerized, reads Speedtest Tracker's API to show results without logging in
+- Obsidian notes backed up via Git to Gitea over Tailscale
+
 ## Tech
 
 - **Languages:** Python, Java, SQL
 - **Backend:** FastAPI, Pydantic, SQLAlchemy, SQLite
 - **Testing:** pytest
-- **Tools:** Git, Docker / Docker Compose, Linux, uv
-- **Self-hosting:** Gitea, reverse proxies, Tailscale
+- **Tools:** Git, Docker / Docker Compose, uv
+- **Operating systems:** Ubuntu Server (homelab), CachyOS (daily driver), Windows with WSL2
 
 ## Currently learning
 
