@@ -9,6 +9,7 @@ Currently focused on backend development with Python.
 - **[bookmarks-api](https://github.com/apathydevil/bookmarks-api)** — REST API with FastAPI and SQLite (hand-written, parameterized SQL), full CRUD including partial updates, covered by a pytest suite
 - **[task-manager-api](https://github.com/apathydevil/task-manager-api)** — CRUD API with FastAPI and SQLAlchemy 2.0 ORM, dependency-injected database sessions, tested with pytest
 - **[speedtest-dashboard](https://github.com/apathydevil/speedtest-dashboard)** — FastAPI web app that reads a self-hosted Speedtest Tracker instance through its REST API and shows results, statistics, and history as server-rendered HTML; containerized with Docker, runs in my homelab
+- **[speedtest-analysis](https://github.com/apathydevil/speedtest-analysis)** — analysis of 5,000 hourly speed tests from my homelab: API client with pagination, CSV export, pandas trend analysis (rolling averages) and a weekday-by-hour heatmap with seaborn
 
 ## Earlier projects
 
